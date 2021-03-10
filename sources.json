@@ -1,5 +1,7 @@
 {
-	"versions": [
+	"versions": 
+		"99 Christmas!",
+		"99 Halloween!",
 		"Demo 1",
 		"Demo 2",
 		"Demo 3",
@@ -27,11 +29,11 @@
 		"Version 2.2.5 Patch",
 		"Version 2.2.6 Patch",
 		"Version 2.2.7",
-		"Version 2.2.8",
-		"99 Christmas!",
-		"99 Halloween!",
+		"Lastest Version 2.2.8"
 	],
 	"urls": [
+		"https://files.srb2.org/srb2.org/history/srb2xm96.exe",
+		"https://files.srb2.org/srb2.org/history/srb2ween.exe",
 		"https://files.srb2.org/srb2.org/history/srb2dem1.exe",
 		"https://files.srb2.org/srb2.org/history/srb2dem2.exe",
 		"https://files.srb2.org/srb2.org/history/srb2dem3.exe",
@@ -59,8 +61,6 @@
 		"https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.5/SRB2-2.2.5-Patch.zip",
 		"https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.6/SRB2-2.2.6-Patch.zip",
 		"https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.7/SRB2-v_227-Installer.exe",
-		"https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.8/SRB2-v_228-Installer.exe",
-		"https://files.srb2.org/srb2.org/history/srb2xm96.exe",
-		"https://files.srb2.org/srb2.org/history/srb2ween.exe"
+		"https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.8/SRB2-v_228-Installer.exe"
 	]
 }
