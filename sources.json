@@ -1,6 +1,6 @@
 {
   "versions":
-  {
+  [{
      "Demo 1" : "https://files.srb2.org/srb2.org/history/srb2dem1.exe",
      "Demo 2" : "https://files.srb2.org/srb2.org/history/srb2dem2.exe",
      "Demo 3" : "https://files.srb2.org/srb2.org/history/srb2dem3.exe",
@@ -31,5 +31,5 @@
      "228" : "https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.8/SRB2-v_228-Installer.exe"
      "'99 Christmas!" : "https://files.srb2.org/srb2.org/history/srb2xm96.exe",
      "'99 Halloween!" : "https://files.srb2.org/srb2.org/history/srb2ween.exe",
-  }
+  }]
 }
